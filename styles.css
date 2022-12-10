@@ -1,0 +1,29 @@
+.container{
+    /* position: absolute; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.todoDiv{
+    padding: 10px;
+    margin: 5px;
+    background-color: aqua;
+    width: 200px;
+    text-align: center;
+    background-color: aquamarine;
+}   
+
+.remove{
+    /* padding: 5px;
+    margin: 10px; */
+}
+
+.todo-check{
+    /* position: relative;
+    left: 20px; */
+}
+
+.clicked{
+    background-color: red;
+}
+
